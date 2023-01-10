@@ -1,0 +1,5 @@
+Package: ALSRWDHybridDesign
+Type: Package
+Title: The R-package that generated results for the Hybrid Design Paper
+Version: 0.0.1.0
+RoxygenNote: 7.2.3
